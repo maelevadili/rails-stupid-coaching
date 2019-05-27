@@ -1,11 +1,5 @@
 class QuestionsController < ApplicationController
   def ask
-    # TO DO
-
-    # URL: /restaurants
-    # Body: name=Piccadilly&address=Rennes&category=french
-    # params
-    # => { name: 'Piccadilly', address: 'Rennes', category: 'french' }
   end
 
   def answer
